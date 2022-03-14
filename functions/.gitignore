@@ -1,7 +1,0 @@
-node_modules/
-## services
-
-serviceAccountKey.json
-.runtimeconfig.json
-package-lock.json
-/node_modules
